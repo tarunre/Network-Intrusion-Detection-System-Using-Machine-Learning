@@ -66,7 +66,6 @@ Network-Intrusion-Detection-Using-Machine-Learning/
 ├── Classifiers_NSL_KDD.ipynb
 │
 ├── README.md
-└── LICENSE
 ```
 
 ---
